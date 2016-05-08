@@ -1,0 +1,17 @@
+{
+  "name": "valid-equations-finder",
+  "version": "1.0.0",
+  "description": "Given a list of numbers, this finds all equations using the basic arithemtic operators (+, -, *, /) that form valid equations with all the numbers remaining in the provided order.",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "sinon": "^1.17.4"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Paul Gross",
+  "license": "ISC"
+}
